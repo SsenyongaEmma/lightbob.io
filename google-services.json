@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980919533609",
+    "project_id": "lightbob-17590",
+    "storage_bucket": "lightbob-17590.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980919533609:android:b18d13eeaf1250abf4dc38",
+        "android_client_info": {
+          "package_name": "com.emmadante.lightbob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhTQg_1gA0dbG4HIdWos2JWRpNtGsujE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
